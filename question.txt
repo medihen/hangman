@@ -1,0 +1,7 @@
+cat
+dog
+turtle
+monkey
+tiger
+lion
+elephant
